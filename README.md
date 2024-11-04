@@ -18,3 +18,11 @@ Telefono: https://design.penpot.app/#/view/e1403c72-8a2a-80ad-8004-e4f33c06e355?
 Tablet: https://design.penpot.app/#/view/e1403c72-8a2a-80ad-8004-e4f33c06e355?page-id=46a5014a-7212-80fe-8004-e60e848b496e&section=interactions&index=0&share-id=e1403c72-8a2a-80ad-8004-e620e7caf803
 <br>
 Computadora: https://design.penpot.app/#/view/e1403c72-8a2a-80ad-8004-e4f33c06e355?page-id=46a5014a-7212-80fe-8004-e5febf13f0d6&section=interactions&index=0
+
+<br>
+Manual de usuario 
+https://www.canva.com/design/DAGVX-Mwcqs/0kGVrbUQx2JYrE-CTnsPfA/edit?utm_content=DAGVX-Mwcqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+<br>
+Manual Tecnico 
+https://www.canva.com/design/DAGVYK_aIv0/cQG2gepEiq7E7ueU4d0GwQ/edit?utm_content=DAGVYK_aIv0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
